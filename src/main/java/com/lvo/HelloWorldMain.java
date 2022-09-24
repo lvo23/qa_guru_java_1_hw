@@ -57,6 +57,6 @@ public class HelloWorldMain {
         int firstResult = 2 * 5;
         double secondResult = 1.5 * 4;
         System.out
-                .println("First result: " + firstResult + "\n" + "Secont restul: " + secondResult);
+                .println("First result: " + firstResult + "\n" + "Second result: " + secondResult);
     }
 }
